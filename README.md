@@ -25,8 +25,8 @@
 [<img align="left" alt="flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>]
 [<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>]
 [<img align="left" alt="PHOTOSHOP" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>]
-[<img align="left" alt="XD" width="26px" src="https://img.icons8.com/color/48/000000/Adobe XD.png"/>]
-
+[<img align="left" alt="XD" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>]
+[<img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/32/000000/figma.png"/>]
 <br />
 <br />
 
