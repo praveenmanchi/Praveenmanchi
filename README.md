@@ -22,7 +22,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />]
+[<img align="left" alt="flutter" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhttps-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3%2F&psig=AOvVaw3YwJlUImLUht_1-wT76JBj&ust=1596686544812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIinqYaXg-sCFQAAAAAdAAAAABAm" />]
 <br />
 <br />
 
