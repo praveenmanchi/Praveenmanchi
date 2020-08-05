@@ -11,6 +11,8 @@
 [<img align="left" alt="praveenmanchi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="praveenmanchi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="praveenmanchi | codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="praveenmanchi | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="praveenmanchi | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 <br />
 
 ### Languages and Tools:
@@ -40,3 +42,5 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [codepen]: https://linkedin.com/in/codeSTACKr
+[dribbble]:https://linkedin.com/in/codeSTACKr
+[behance]: https://linkedin.com/in/codeSTACKr
