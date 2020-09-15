@@ -39,8 +39,8 @@
 <img align="left" alt="praveenmanchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveenmanchi&show_icons=true&hide_border=true" />
 
 [website]: https://praveenmanchi.github.io/
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[codepen]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/praveen_kumar_manchi/
+[linkedin]: https://www.linkedin.com/in/praveen-manchi-509666bb/
+[codepen]: https://codepen.io/
 [dribbble]:https://linkedin.com/in/codeSTACKr
 [behance]: https://linkedin.com/in/codeSTACKr
