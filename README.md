@@ -1,7 +1,7 @@
 ### Hi there, I'm praveen manchi - 
 
 ## I'm a ui/ux desginer ,photographer & ethical hacker
-- 🔭 I’m currently working on a WAFU TECHNOLOGIES [website]!
+- 🔭 I’m currently working on a WAFU TECHNOLOGIES
 - 🌱 I’m currently learning Ethical hacking & flutter
 - 👯 I’m looking for ui/ux desginer position
 
@@ -38,9 +38,11 @@
 
 <img align="left" alt="praveenmanchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveenmanchi&show_icons=true&hide_border=true" />
 
+<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+
 [website]: https://praveenmanchi.github.io/
 [instagram]: https://www.instagram.com/praveen_kumar_manchi/
 [linkedin]: https://www.linkedin.com/in/praveen-manchi-509666bb/
 [codepen]: https://codepen.io/
-[dribbble]:https://linkedin.com/in/codeSTACKr
-[behance]: https://linkedin.com/in/codeSTACKr
+[dribbble]:https://linkedin.com/
+[behance]: https://linkedin.com/
