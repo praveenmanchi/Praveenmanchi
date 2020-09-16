@@ -38,7 +38,7 @@
 
 <img align="left" alt="praveenmanchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveenmanchi&show_icons=true&hide_border=true" />
 
-------
+--
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
