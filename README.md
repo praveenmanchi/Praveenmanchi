@@ -14,6 +14,7 @@
 [<img align="left" alt="praveenmanchi | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="praveenmanchi | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 <br />
+<script src="https://www.hackthebox.eu/badge/395099"></script>
 
 ### Languages and Tools:
 
