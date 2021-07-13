@@ -1,7 +1,7 @@
 ### Hi there, I'm praveen manchi 
 
 ## I'm a ui/ux desginer ,photographer & ethical hacker
-- 🔭 I’m currently working on a WAFU TECHNOLOGIES
+- 🔭 I’m currently working on a Tata Elxsi 
 - 🌱 I’m currently learning Ethical hacking & flutter
 - 👯 I’m looking for ui/ux desginer position
 
