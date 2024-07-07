@@ -45,10 +45,6 @@ As a UI/UX designer, I believe in creating user-centric designs that not only lo
 3. Balancing aesthetics with functionality
 4. Staying updated with the latest design trends and accessibility standards
 
-### 📸 Photography:
-
-When I'm not designing interfaces, you can find me behind the lens, capturing [describe your photography style and subjects]. My photography work has been featured in [mention any notable publications or exhibitions, if applicable].
-
 ### 🔐 Ethical Hacking:
 
 My interest in ethical hacking stems from a desire to create more secure digital experiences. I'm constantly learning about:
