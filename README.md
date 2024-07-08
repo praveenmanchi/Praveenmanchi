@@ -10,7 +10,7 @@ I'm a multifaceted professional with a passion for creating beautiful user exper
 - 🌱 Expanding my knowledge in Ethical Hacking to better understand and mitigate digital security risks.
 - 📱 Learning Flutter to broaden my skillset in cross-platform mobile app development.
 - 🎨 Constantly refining my UI/UX design skills and staying up-to-date with the latest design trends and best practices.
-- 📸 Pursuing photography as a creative outlet, specializing in [your preferred photography style/subject].
+- 📸 Pursuing photography as a creative outlet, specializing in Nature.
 
 ### 🔍 What I'm looking for:
 
